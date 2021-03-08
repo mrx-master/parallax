@@ -23,17 +23,17 @@ body, html {
 }
 
 .pimg1 {
-	background-image: url('D:/Web Development/images/architectural-design-architecture-buildings-city-373893.jpg');
+	background-image: url('imgs/architectural-design-architecture-buildings-city-373893.jpg');
 	min-height: 100%;
 }
 
 .pimg2 {
-	background-image: url('D:/Web Development/images/aerial-architectural-design-architecture-buildings-373912.jpg');
+	background-image: url('imgs/aerial-architectural-design-architecture-buildings-373912.jpg');
 	min-height: 400px;
 }
 
 .pimg3 {
-	background-image: url('D:/Web Development/images/architecture-buildings-business-city-374870.jpg');
+	background-image: url('imgs/architecture-buildings-business-city-374870.jpg');
 	min-height: 400px;
 }
 
